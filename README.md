@@ -1,5 +1,5 @@
 # haskell-hamming
-A haskell implementation of arbitrary-length extended (SECDED) Hamming code, with block length `2 ^ r` for message length `2 ^ r - r - 1`.
+A Haskell implementation of arbitrary-length extended (SECDED) Hamming code, with block length `2 ^ r` for message length `2 ^ r - r - 1`.
 
 This is more for illustration than efficiency.
 
